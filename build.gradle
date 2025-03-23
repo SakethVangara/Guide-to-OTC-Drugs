@@ -29,5 +29,5 @@ test {
 }
 
 application {
-    mainClass = "edu.virginia.sde.reviews.CourseReviewsApplication"
+    mainClass = "com.OTCDrugs.Guide.OTCGuideApplication"
 }

@@ -1,10 +1,10 @@
-package edu.virginia.sde.reviews;
+package com.OTCDrugs.Guide;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
 
-public class CourseReviewsController {
+public class OTCGuideController {
     @FXML
     private Label messageLabel;
 
